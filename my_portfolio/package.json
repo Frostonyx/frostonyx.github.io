@@ -1,7 +1,7 @@
 {
   "name": "my_portfolio",
   "version": "0.1.0",
-  "homepage": "https://frostonyx.github.io/my_portfolio",
+  "homepage": "https://frostonyx.github.io",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
